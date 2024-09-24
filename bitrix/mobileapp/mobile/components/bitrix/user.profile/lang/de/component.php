@@ -1,0 +1,30 @@
+<?
+$MESS["NAME"] = "Vorname";
+$MESS["LAST_NAME"] = "Nachname";
+$MESS["SECOND_NAME"] = "Zweiter Vorname";
+$MESS["EMAIL"] = "E-Mail";
+$MESS["PERSONAL_MOBILE"] = "Mobil";
+$MESS["PERSONAL_BIRTHDAY"] = "Geburtsdatum";
+$MESS["PERSONAL_GENDER"] = "Geschlecht";
+$MESS["PERSONAL_WWW"] = "Website";
+$MESS["PERSONAL_CITY"] = "Stadt";
+$MESS["TIME_ZONE"] = "Zeitzone";
+$MESS["GROUP_ID"] = "Gruppe";
+$MESS["WORK_PHONE"] = "Telefon geschäftlich";
+$MESS["WORK_POSITION"] = "Position";
+$MESS["UF_PHONE_INNER"] = "Durchwahl";
+$MESS["UF_SKYPE"] = "Skype";
+$MESS["UF_TWITTER"] = "Twitter";
+$MESS["UF_FACEBOOK"] = "Facebook";
+$MESS["UF_LINKEDIN"] = "LinkedIn";
+$MESS["UF_XING"] = "Xing";
+$MESS["PASSWORD"] = "Passwort";
+$MESS["MALE"] = "männlich";
+$MESS["FEMALE"] = "weiblich";
+$MESS["SAVE_FORM"] = "Fertig";
+$MESS["MAIN"] = "Allgemein";
+$MESS["EXTRA"] = "Mehr";
+$MESS["ACCOUNT"] = "Account";
+$MESS["SOMETHING_WENT_WRONG"] = "Das ist ein Fehler. Bitte später erneut versuchen.";
+$MESS["ERROR"] = "Fehler";
+?>

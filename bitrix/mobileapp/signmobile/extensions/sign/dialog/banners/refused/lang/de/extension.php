@@ -1,0 +1,4 @@
+<?php
+$MESS["SIGN_MOBILE_DIALOG_REFUSED_BUTTON_CLOSE_TITLE"] = "Schließen";
+$MESS["SIGN_MOBILE_DIALOG_REFUSED_DESCRIPTION"] = "Das Dokument [COLOR=\"#COLOR_OF_HIGHLIGHTED_TEXT#\"]#DOCUMENT_TITLE#[/COLOR] ist nicht mehr zum Unterschreiben verfügbar.";
+$MESS["SIGN_MOBILE_DIALOG_REFUSED_TITLE"] = "Unterschrift verweigert";

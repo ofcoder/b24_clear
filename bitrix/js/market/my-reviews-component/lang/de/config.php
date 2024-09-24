@@ -1,0 +1,20 @@
+<?php
+$MESS["MARKET_DONT_HAVE_REVIEWS"] = "Sie haben noch keine Rezensionen geschrieben.";
+$MESS["MARKET_DONT_HAVE_REVIEWS_FILTER"] = "Keine Rezensionen gefunden.";
+$MESS["MARKET_MY_REVIEWS"] = "Meine Rezensionen";
+$MESS["MARKET_NO_REVIEW_APPS"] = "Es gibt noch keine Apps, für die Sie Rezensionen geschrieben haben.";
+$MESS["MARKET_NO_REVIEW_APPS_FILTER"] = "Keine Ihrer Rezensionen stimmt mit den angegebenen Filtern überein.";
+$MESS["MARKET_REVIEWS_DEVELOPER"] = "Entwickler";
+$MESS["MARKET_REVIEWS_MENU_ITEM_EDITING"] = "Bewertung bearbeiten";
+$MESS["MARKET_REVIEW_ANSWER"] = "Antwort des Entwicklers";
+$MESS["MARKET_REVIEW_EDITING_CANCEL"] = "Abbrechen";
+$MESS["MARKET_REVIEW_EDITING_RE_MODERATION_TITLE"] = "Ihre aktualisierte Bewertung wird zur Freigabe gesendet.";
+$MESS["MARKET_REVIEW_EDITING_SAVE"] = "Speichern";
+$MESS["MARKET_REVIEW_EDITING_TITLE"] = "Bewertung bearbeiten";
+$MESS["MARKET_REVIEW_EDIT_REVIEW_ERROR"] = "Fehler beim Aktualisieren der Bewertung.";
+$MESS["MARKET_REVIEW_EDIT_REVIEW_NOT_ALLOWED"] = "Bewertung kann nicht bearbeitet werden.";
+$MESS["MARKET_REVIEW_EDIT_REVIEW_SUCCESS"] = "Ihre Bewertung wurde erfolgreich aktualisiert.";
+$MESS["MARKET_REVIEW_EDIT_REVIEW_TEXT_ERROR"] = "Text der Bewertung ist erforderlich.";
+$MESS["MARKET_REVIEW_NO_PUBLISHED"] = "Nicht veröffentlicht";
+$MESS["MARKET_REVIEW_PUBLISHED"] = "Veröffentlicht";
+$MESS["MARKET_REVIEW_SENT_TO_DEVELOPER"] = "An Entwickler gesendet";

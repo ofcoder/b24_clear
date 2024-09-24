@@ -1,0 +1,28 @@
+<?
+$MESS["TASKS_COLUMN_ID"] = "ID";
+$MESS["TASKS_COLUMN_USER"] = "Mitarbeiter";
+$MESS["TASKS_COLUMN_EFFECTIVE"] = "Effektivität";
+$MESS["TASKS_COLUMN_DINAMIC"] = "Dynamik";
+$MESS["TASKS_COLUMN_MORE"] = "Mehr";
+$MESS["TASKS_COLUMN_CREATED_DATE"] = "Datum der Kritik";
+$MESS["TASKS_FILTER_COLUMN_GROUP_ID"] = "Projekt/Gruppe";
+$MESS["TASKS_FILTER_COLUMN_DATE"] = "Zeitraum";
+$MESS["TASKS_FILTER_COLUMN_KPI"] = "Effektivität";
+$MESS["TASKS_PRESET_CURRENT_DAY"] = "Diesen Tag";
+$MESS["TASKS_PRESET_CURRENT_MONTH"] = "Diesen Monat";
+$MESS["TASKS_PRESET_CURRENT_QUARTER"] = "Dieses Quartal";
+$MESS["TASKS_PRESET_CURRENT_YEAR"] = "Dieses Jahr";
+$MESS["TASKS_EFFECTIVE_DATE_FORMAT"] = "#DAY# #MONTH_NAME# #YEAR_IF_DIFF#";
+$MESS["TASKS_MONTH_1"] = "Januar";
+$MESS["TASKS_MONTH_2"] = "Februar";
+$MESS["TASKS_MONTH_3"] = "März";
+$MESS["TASKS_MONTH_4"] = "April";
+$MESS["TASKS_MONTH_5"] = "Mai";
+$MESS["TASKS_MONTH_6"] = "Juni";
+$MESS["TASKS_MONTH_7"] = "Juli";
+$MESS["TASKS_MONTH_8"] = "August";
+$MESS["TASKS_MONTH_9"] = "September";
+$MESS["TASKS_MONTH_10"] = "Oktober";
+$MESS["TASKS_MONTH_11"] = "November";
+$MESS["TASKS_MONTH_12"] = "Dezember";
+?>

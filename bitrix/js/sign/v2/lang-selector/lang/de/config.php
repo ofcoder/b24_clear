@@ -1,0 +1,3 @@
+<?php
+$MESS["SIGN_BLANK_LANGUAGE_SELECTOR_BUTTON_TITLE"] = "Sprache auswählen";
+$MESS["SIGN_BLANK_LANGUAGE_SELECTOR_LABEL"] = "Dokumentsprache";

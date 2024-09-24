@@ -1,0 +1,5 @@
+<?php
+$MESS["SELECTOR_COMPONENT_CREATE_TASK_TAG"] = "Tag hinzufügen";
+$MESS["SELECTOR_COMPONENT_CREATING_TASK_TAG"] = "Tag hinzufügen";
+$MESS["SELECTOR_COMPONENT_PICK_TASK_TAG_2"] = "Tags";
+$MESS["SELECTOR_COMPONENT_START_TYPING_TO_SEARCH_TASK_TAG"] = "Fangen Sie an zu tippen, um ein Tag auszuwählen";

@@ -1,0 +1,8 @@
+<?php
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_BUTTON_CREATE"] = "Erstellen";
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_CANCEL_ALERT_DESCRIPTION"] = "Möchten Sie das neue Aufgabenformular wirklich schließen?";
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_CANCEL_ALERT_TITLE"] = "Aufgabe wurde nicht gespeichert";
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_SAVE_ERROR_LOADING_FILES"] = "Nicht alle Dateien wurden heruntergeladen.";
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_SAVE_ERROR_NO_TITLE"] = "Geben Sie den Namen der Aufgabe ein, um sie zu speichern";
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_SECTION_MORE"] = "Mehr";
+$MESS["TASKSMOBILE_LAYOUT_TASK_CREATE_TITLE"] = "Neue Aufgabe";

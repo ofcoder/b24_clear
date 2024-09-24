@@ -1,0 +1,8 @@
+<?
+$MESS["DISK_FILE_HISTORY_VERSION_RESTORE_CONFIRM"] = "Möchten Sie diese Dokumentversion wiederherstellen?";
+$MESS["DISK_FILE_HISTORY_VERSION_RESTORE_BUTTON"] = "Wiederherstellen";
+$MESS["DISK_FILE_HISTORY_VERSION_RESTORE_TITLE"] = "Version wiederherstellen";
+$MESS["DISK_FILE_HISTORY_VERSION_DELETE_VERSION_CONFIRM"] = "Möchten Sie diese Version wirklich löschen?";
+$MESS["DISK_FILE_HISTORY_VERSION_DELETE_VERSION_BUTTON"] = "Löschen";
+$MESS["DISK_FILE_HISTORY_VERSION_DELETE_VERSION_TITLE"] = "Version löschen";
+?>
